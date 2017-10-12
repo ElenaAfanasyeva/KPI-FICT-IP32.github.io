@@ -1,3 +1,12 @@
-_site
-.sass-cache
-.jekyll-metadata
+# Vi swap files:
+.*.swo
+.*.swp
+
+# Built file
+build
+
+# pyenv version file
+.python-version
+
+# MAC OS
+.DS_Store
